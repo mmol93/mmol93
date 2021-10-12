@@ -17,6 +17,8 @@
 
 ### ① MaidAlarm 
 <a href='https://play.google.com/store/apps/details?id=com.MaidAlarm.easyo_alarm&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width = 15% height = 15%></a>
+<a href='https://github.com/mmol93/EasyO_Alarm1-2'><img src='https://user-images.githubusercontent.com/69494230/137041613-75ad0721-460c-42c2-ade2-02899ee5ae93.png' width = 15% height = 15%></a>
+
 #### Features
 1. Basic Alarm Fuction
 2. Get weather forecase with retrofit2
