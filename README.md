@@ -21,7 +21,7 @@
 
 #### Features
 1. Basic Alarm Fuction
-2. Get weather forecase with retrofit2
+2. Get weather forecast with retrofit2
 3. Set Simple Alarm from Notification
 4. Display next Alarm with Notification
   
