@@ -8,6 +8,7 @@
 <img src="https://img.shields.io/badge/AndroidStudio-36725A?style=flat-square&logo=Android Studio&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Kotlin-AC41B0?style=flat-square&logo=Kotlin&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Django-3776AB?style=flat-square&logo=Django&logoColor=white"/></a>
 
 
 ## 😄 Me!
