@@ -9,9 +9,10 @@
 <img src="https://img.shields.io/badge/Kotlin-AC41B0?style=flat-square&logo=Kotlin&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Django-3776AB?style=flat-square&logo=Django&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/HTML-AC41B0?style=flat-square&logo=Html&logoColor=white"/></a>
 
 
-## 😄 Me!
+## 😄 Contact Me!
 <a href="mailto:ljws93@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-00C03B?style=flat-square&logo=Naver&logoColor=white"/></a>
 
 ## <img src="https://user-images.githubusercontent.com/69494230/136742197-0f9d08fd-dcf5-44fc-9cfa-7aa7d3a66bf5.png" height="20px"> On the Market
@@ -27,6 +28,22 @@
 4. Display next Alarm with Notification
   
 
+## Focus on Now
+
+### ① Clone Coding 
+from https://play.google.com/store/apps/details?id=com.wuochoang.lolegacy&hl=ko&gl=US
+
+<a href='https://github.com/LeeJaeHyeon05/FirstApp'><img src='https://user-images.githubusercontent.com/69494230/137041613-75ad0721-460c-42c2-ade2-02899ee5ae93.png' width = 15% height = 15%></a>
+
+#### Features
+1. This project is Team Work
+2. use Retrofit2
+3. use Jsoup
+4. use Hilt
+5. use Room
+6. use WorkManager
+7. use Coroutine
+8. use MVVM 
 
 <!--
 **mmol93/mmol93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
