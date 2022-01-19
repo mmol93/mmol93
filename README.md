@@ -28,8 +28,8 @@
 
 ## Focus on Now
 
-### ① Clone Coding 
-from https://play.google.com/store/apps/details?id=com.wuochoang.lolegacy&hl=ko&gl=US
+### ① Clone Coding - Team work
+Target https://play.google.com/store/apps/details?id=com.wuochoang.lolegacy&hl=ko&gl=US
 
 <a href='https://github.com/LeeJaeHyeon05/FirstApp'><img src='https://user-images.githubusercontent.com/69494230/137041613-75ad0721-460c-42c2-ade2-02899ee5ae93.png' width = 15% height = 15%></a>
 
