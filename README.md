@@ -5,15 +5,6 @@
 
 <img src="https://img.shields.io/badge/AndroidStudio-36725A?style=flat-square&logo=Android Studio&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Kotlin-AC41B0?style=flat-square&logo=Kotlin&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Django-3776AB?style=flat-square&logo=Django&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/HTML-AC41B0?style=flat-square&logo=Html&logoColor=white"/></a>
-
-
-## 😄 Contact Me!
-<a href="mailto:ljws93@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-00C03B?style=flat-square&logo=Naver&logoColor=white"/></a>
-
-## <img src="https://user-images.githubusercontent.com/69494230/136742197-0f9d08fd-dcf5-44fc-9cfa-7aa7d3a66bf5.png" height="20px"> On the Market
 
 ----
 
