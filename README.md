@@ -18,6 +18,6 @@ Usefull, Simple Alarm
 ### Features
 1. morden design
 2. jetpack(Coroutine, Room, Hilt, ect.)
-3. Unit Test / UI Test
-4. (expected) GA
-5. (expected) PlayStore
+3. Instrumented tests
+4. (ing) GA
+5. (ing) PlayStore
