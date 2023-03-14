@@ -13,7 +13,7 @@
 ## PairAlarm - ing
 Usefull, Simple Alarm
 
-<a href='[https://github.com/mmol93/PairAlarm](https://github.com/mmol93/PairAlarm)'><img src='https://user-images.githubusercontent.com/69494230/137041613-75ad0721-460c-42c2-ade2-02899ee5ae93.png' width = 15% height = 15%></a>
+<a href='https://github.com/mmol93/PairAlarm'><img src='https://user-images.githubusercontent.com/69494230/137041613-75ad0721-460c-42c2-ade2-02899ee5ae93.png' width = 15% height = 15%></a>
 
 ### Features
 1. morden design
