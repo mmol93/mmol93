@@ -24,12 +24,29 @@
   </a>
 </p>
 
+---
+
 # Personal Activity
 
 ## PairAlarm - ing
 <a href='https://github.com/mmol93/PairAlarm'><img src='https://user-images.githubusercontent.com/69494230/137041613-75ad0721-460c-42c2-ade2-02899ee5ae93.png' width = 15% height = 15%></a>
-### Features
-* Simpla Alarm app
-* Jetpack
+| Feature | Description |
+|----------|----------|
+| Language   |  Kotlin  |
+| Async   |  Coroutine Flow  |
+| DI   |  Hilt  |
+| DB   |  Room  |
+| etc   |  BroadCastService, Notification  |
+
+
 
 ## Selfchat
+<a href='https://github.com/mmol93/flutter_self_talk'><img src='https://user-images.githubusercontent.com/69494230/137041613-75ad0721-460c-42c2-ade2-02899ee5ae93.png' width = 15% height = 15%></a>
+<img src='https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg' width='200' />
+| Feature | Description |
+|----------|----------|
+| Language   |  Flutter(Dart)  |
+| State   | Riverpod   |
+| Friend DB   |  SQLite  |
+| Message DB   |  Preference  |
+
