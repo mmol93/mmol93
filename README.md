@@ -40,9 +40,10 @@
 
 
 
-## Selfchat
+## SelfTalk
 <a href='https://github.com/mmol93/flutter_self_talk'><img src='https://user-images.githubusercontent.com/69494230/137041613-75ad0721-460c-42c2-ade2-02899ee5ae93.png' width = 15% height = 15%></a>
-<img src='https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg' width='200' />
+<a href='https://play.google.com/store/apps/details?id=com.easyo.self_talk.product'><img src='https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg' width='200' /></a>
+
 | Feature | Description |
 |----------|----------|
 | Language   |  Flutter(Dart)  |
@@ -50,3 +51,6 @@
 | Friend DB   |  SQLite  |
 | Message DB   |  Preference  |
 
+## Compose Examples
+<a href='https://github.com/mmol93/Compose_Architecture'><img src='https://user-images.githubusercontent.com/69494230/137041613-75ad0721-460c-42c2-ade2-02899ee5ae93.png' width = 15% height = 15%></a>
+*  examples of each Jetpack Compose view by parts.
